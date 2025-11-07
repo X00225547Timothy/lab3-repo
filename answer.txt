@@ -1,0 +1,2 @@
+b. fast forward merge 
+e. This caused a merge conflict because the branches changed the same part of the same file but in two different ways 
